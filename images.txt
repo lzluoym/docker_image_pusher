@@ -3,7 +3,6 @@ bytemark/webdav
 deluan/navidrome
 b3log/siyuan
 nginx
-immich
 leesonaa/immich
 uzka/typora
 calibre-web

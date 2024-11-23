@@ -1,1 +1,5 @@
-linuxserver/heimdall
+talebook/talebook
+nextcloud
+syncthing/syncthing
+traefik
+halohub/halo

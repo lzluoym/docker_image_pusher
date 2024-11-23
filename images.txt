@@ -1,5 +1,5 @@
-talebook/talebook
-nextcloud
-syncthing/syncthing
-traefik
-halohub/halo
+diygod/rsshub
+zerotier/zerotier
+homeassistant/home-assistant
+linuxserver/docker-compose
+easysoft/zentao
